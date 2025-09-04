@@ -3,7 +3,7 @@
 
 An AI-powered assistant that explains complex topics in easy language, as if you are 5 years old.  
 Frontend is deployed on Vercel, backend on Render, and explanations are generated using OpenAI GPT models.
-
+![alt text](<WhatsApp Image 2025-09-04 at 12.07.28_c1e945be.jpg>)
 ---
 
 ## 🚀 Tech Stack
