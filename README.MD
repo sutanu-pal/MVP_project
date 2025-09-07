@@ -1,5 +1,5 @@
 
-***Explain Like I'm 5 (ELI5) Learning Copilot - MVP***
+# ***Explain Like I'm 5 (ELI5) Learning Copilot - MVP***
 
 An AI-powered assistant that explains complex topics in easy language, as if you are 5 years old.  
 Frontend is deployed on Vercel, backend on Render, and explanations are generated using OpenAI GPT models.
